@@ -12,4 +12,11 @@ namespace LaboratorioProgramacionUno.DAO
         public String[] user = new String[2] { "Carlos", "Eva"};
         public String[] pass = new String[2] { "123", "123" };
     }
+
+    class ClsListadeAdministradores
+    {
+
+        public String[] user = new String[2] { "Raquel", "Agustin" };
+        public String[] pass = new String[2] { "123", "123" };
+    }
 }

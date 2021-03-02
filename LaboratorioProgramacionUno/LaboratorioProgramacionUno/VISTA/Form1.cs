@@ -23,9 +23,17 @@ namespace LaboratorioProgramacionUno
 
             FrmLoguin frm = new FrmLoguin();
             frm.Show();
+            this.Hide();
         }
 
         private void txtAdministrador_Click(object sender, EventArgs e)
+        {
+            FrmLoguin frm = new FrmLoguin();
+            frm.Show();
+            this.Hide();
+        }
+        public String usuarioEstado;
+        private void Form1_Load(object sender, EventArgs e)
         {
 
         }

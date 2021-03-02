@@ -21,6 +21,7 @@ namespace LaboratorioProgramacionUno.VISTA
 
         private void button1_Click(object sender, EventArgs e)
         {
+            
             Login log = new Login();
 
             log.Usuario = txtNombreUsuario.Text;
@@ -33,14 +34,19 @@ namespace LaboratorioProgramacionUno.VISTA
             {
 
                 MessageBox.Show("Bienvenido");
-                FrmLoguin frm = new FrmLoguin();
+                FrmOperaciones frm = new FrmOperaciones();
                 frm.Show();
                 this.Hide();
             }
-            else
+            else 
             {
                 MessageBox.Show("Error");
             }
+
+        }
+
+        private void FrmLoguin_Load(object sender, EventArgs e)
+        {
 
         }
     }
