@@ -11,14 +11,14 @@ namespace LaboratorioProgramacionUno.NEGOCIO
     class ClsLogin
     {
 
-        ClsListadeUsuarios cls = new ClsListadeUsuarios();
+        ClsListadeUsuarios DAO = new ClsListadeUsuarios();
 
 
         public Boolean acceso(Login log)
         {
             
-            for (int i = 0; i < cls.user.Length; i++) { 
-            if (log.Usuario.Equals(cls.user[i]) && log.Password.Equals(cls.pass[i]))
+            for (int i = 0; i < DAO.users.Length; i++) { 
+            if (log.Usuario.Equals(DAO.users[i]) && log.Password.Equals(DAO.pass[i]))
                 {
                     return true;
                 }

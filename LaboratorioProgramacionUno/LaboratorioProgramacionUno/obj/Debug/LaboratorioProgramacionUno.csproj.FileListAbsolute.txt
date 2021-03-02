@@ -21,3 +21,15 @@ C:\Users\amilc\OneDrive\Documentos\GitHub\Laboratorio1\LaboratorioProgramacionUn
 C:\Users\amilc\OneDrive\Documentos\GitHub\Laboratorio1\LaboratorioProgramacionUno\LaboratorioProgramacionUno\obj\Debug\LaboratorioProgramacionUno.exe
 C:\Users\amilc\OneDrive\Documentos\GitHub\Laboratorio1\LaboratorioProgramacionUno\LaboratorioProgramacionUno\obj\Debug\LaboratorioProgramacionUno.pdb
 C:\Users\amilc\OneDrive\Documentos\GitHub\Laboratorio1\LaboratorioProgramacionUno\LaboratorioProgramacionUno\obj\Debug\LaboratorioProgramacionUno.VISTA.FrmOperaciones.resources
+C:\Users\Josss_k4ptalp\Desktop\Laboratorio1\LaboratorioProgramacionUno - copia\LaboratorioProgramacionUno\bin\Debug\LaboratorioProgramacionUno.exe.config
+C:\Users\Josss_k4ptalp\Desktop\Laboratorio1\LaboratorioProgramacionUno - copia\LaboratorioProgramacionUno\bin\Debug\LaboratorioProgramacionUno.exe
+C:\Users\Josss_k4ptalp\Desktop\Laboratorio1\LaboratorioProgramacionUno - copia\LaboratorioProgramacionUno\bin\Debug\LaboratorioProgramacionUno.pdb
+C:\Users\Josss_k4ptalp\Desktop\Laboratorio1\LaboratorioProgramacionUno - copia\LaboratorioProgramacionUno\obj\Debug\LaboratorioProgramacionUno.csprojAssemblyReference.cache
+C:\Users\Josss_k4ptalp\Desktop\Laboratorio1\LaboratorioProgramacionUno - copia\LaboratorioProgramacionUno\obj\Debug\LaboratorioProgramacionUno.Form1.resources
+C:\Users\Josss_k4ptalp\Desktop\Laboratorio1\LaboratorioProgramacionUno - copia\LaboratorioProgramacionUno\obj\Debug\LaboratorioProgramacionUno.Properties.Resources.resources
+C:\Users\Josss_k4ptalp\Desktop\Laboratorio1\LaboratorioProgramacionUno - copia\LaboratorioProgramacionUno\obj\Debug\LaboratorioProgramacionUno.VISTA.FrmLoguin.resources
+C:\Users\Josss_k4ptalp\Desktop\Laboratorio1\LaboratorioProgramacionUno - copia\LaboratorioProgramacionUno\obj\Debug\LaboratorioProgramacionUno.VISTA.FrmOpera.resources
+C:\Users\Josss_k4ptalp\Desktop\Laboratorio1\LaboratorioProgramacionUno - copia\LaboratorioProgramacionUno\obj\Debug\LaboratorioProgramacionUno.csproj.GenerateResource.cache
+C:\Users\Josss_k4ptalp\Desktop\Laboratorio1\LaboratorioProgramacionUno - copia\LaboratorioProgramacionUno\obj\Debug\LaboratorioProgramacionUno.csproj.CoreCompileInputs.cache
+C:\Users\Josss_k4ptalp\Desktop\Laboratorio1\LaboratorioProgramacionUno - copia\LaboratorioProgramacionUno\obj\Debug\LaboratorioProgramacionUno.exe
+C:\Users\Josss_k4ptalp\Desktop\Laboratorio1\LaboratorioProgramacionUno - copia\LaboratorioProgramacionUno\obj\Debug\LaboratorioProgramacionUno.pdb

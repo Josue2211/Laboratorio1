@@ -63,11 +63,11 @@
     <Compile Include="VISTA\FrmLoguin.Designer.cs">
       <DependentUpon>FrmLoguin.cs</DependentUpon>
     </Compile>
-    <Compile Include="VISTA\FrmOperaciones.cs">
+    <Compile Include="VISTA\FrmOpera.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="VISTA\FrmOperaciones.Designer.cs">
-      <DependentUpon>FrmOperaciones.cs</DependentUpon>
+    <Compile Include="VISTA\FrmOpera.Designer.cs">
+      <DependentUpon>FrmOpera.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="VISTA\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -84,8 +84,8 @@
     <EmbeddedResource Include="VISTA\FrmLoguin.resx">
       <DependentUpon>FrmLoguin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="VISTA\FrmOperaciones.resx">
-      <DependentUpon>FrmOperaciones.cs</DependentUpon>
+    <EmbeddedResource Include="VISTA\FrmOpera.resx">
+      <DependentUpon>FrmOpera.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

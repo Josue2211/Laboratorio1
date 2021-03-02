@@ -22,6 +22,7 @@ namespace LaboratorioProgramacionUno
         {
 
             FrmLoguin frm = new FrmLoguin();
+            frm.tipoUsuario = 0;
             frm.Show();
             this.Hide();
         }
@@ -29,10 +30,11 @@ namespace LaboratorioProgramacionUno
         private void txtAdministrador_Click(object sender, EventArgs e)
         {
             FrmLoguin frm = new FrmLoguin();
+            frm.tipoUsuario = 1;
             frm.Show();
             this.Hide();
         }
-        public String usuarioEstado;
+        
         private void Form1_Load(object sender, EventArgs e)
         {
 
