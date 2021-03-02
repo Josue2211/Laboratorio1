@@ -36,8 +36,8 @@ namespace LaboratorioProgramacionUno
             // btnUsuario
             // 
             this.btnUsuario.Font = new System.Drawing.Font("Algerian", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnUsuario.Location = new System.Drawing.Point(53, 116);
-            this.btnUsuario.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnUsuario.Location = new System.Drawing.Point(78, 116);
+            this.btnUsuario.Margin = new System.Windows.Forms.Padding(4);
             this.btnUsuario.Name = "btnUsuario";
             this.btnUsuario.Size = new System.Drawing.Size(187, 95);
             this.btnUsuario.TabIndex = 0;
@@ -49,7 +49,7 @@ namespace LaboratorioProgramacionUno
             // 
             this.btnAdministrador.Font = new System.Drawing.Font("Algerian", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAdministrador.Location = new System.Drawing.Point(353, 116);
-            this.btnAdministrador.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnAdministrador.Margin = new System.Windows.Forms.Padding(4);
             this.btnAdministrador.Name = "btnAdministrador";
             this.btnAdministrador.Size = new System.Drawing.Size(187, 95);
             this.btnAdministrador.TabIndex = 1;
@@ -64,7 +64,7 @@ namespace LaboratorioProgramacionUno
             this.ClientSize = new System.Drawing.Size(623, 357);
             this.Controls.Add(this.btnAdministrador);
             this.Controls.Add(this.btnUsuario);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "MENU";

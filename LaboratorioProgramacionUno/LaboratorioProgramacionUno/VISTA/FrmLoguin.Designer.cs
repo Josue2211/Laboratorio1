@@ -32,7 +32,7 @@ namespace LaboratorioProgramacionUno.VISTA
             this.label_usuario = new System.Windows.Forms.Label();
             this.label_contraseña = new System.Windows.Forms.Label();
             this.txtContraseña = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.button_entrar = new System.Windows.Forms.Button();
             this.txtNombreUsuario = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
@@ -68,17 +68,17 @@ namespace LaboratorioProgramacionUno.VISTA
             this.txtContraseña.Size = new System.Drawing.Size(192, 38);
             this.txtContraseña.TabIndex = 3;
             // 
-            // button1
+            // button_entrar
             // 
-            this.button1.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(348, 359);
-            this.button1.Margin = new System.Windows.Forms.Padding(4);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(111, 46);
-            this.button1.TabIndex = 4;
-            this.button1.Text = "Entrar";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.button_entrar.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button_entrar.Location = new System.Drawing.Point(348, 359);
+            this.button_entrar.Margin = new System.Windows.Forms.Padding(4);
+            this.button_entrar.Name = "button_entrar";
+            this.button_entrar.Size = new System.Drawing.Size(111, 46);
+            this.button_entrar.TabIndex = 4;
+            this.button_entrar.Text = "Entrar";
+            this.button_entrar.UseVisualStyleBackColor = true;
+            this.button_entrar.Click += new System.EventHandler(this.button1_Click);
             // 
             // txtNombreUsuario
             // 
@@ -91,10 +91,11 @@ namespace LaboratorioProgramacionUno.VISTA
             // 
             // FrmLoguin
             // 
+            this.AcceptButton = this.button_entrar;
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(820, 443);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.button_entrar);
             this.Controls.Add(this.txtContraseña);
             this.Controls.Add(this.txtNombreUsuario);
             this.Controls.Add(this.label_contraseña);
@@ -114,7 +115,7 @@ namespace LaboratorioProgramacionUno.VISTA
         private System.Windows.Forms.Label label_usuario;
         private System.Windows.Forms.Label label_contraseña;
         private System.Windows.Forms.TextBox txtContraseña;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button_entrar;
         private System.Windows.Forms.TextBox txtNombreUsuario;
     }
 }

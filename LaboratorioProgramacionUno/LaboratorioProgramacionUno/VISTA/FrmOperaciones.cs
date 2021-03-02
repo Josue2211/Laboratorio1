@@ -87,6 +87,8 @@ namespace LaboratorioProgramacionUno.VISTA
 
         private void label3_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("Calculando");
+
             int multiplicacion;
             multiplicacion = Convert.ToInt32(textBox_precioproducto.Text) * Convert.ToInt32(textBox_cantidad.Text);
 
@@ -95,7 +97,7 @@ namespace LaboratorioProgramacionUno.VISTA
 
 
 
-            multiplicacion = label3.Text
+            
 
         }
     }
